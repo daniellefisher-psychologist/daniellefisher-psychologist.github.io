@@ -24,6 +24,8 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
+  --deep-green: #016a14;
+
   /*
   --primary: #1abc9c;
   --secondary: #2c3e50;
@@ -10041,7 +10043,7 @@ h3 {
 .divider-custom .divider-custom-icon {
   /* color: #2c3e50 !important; */
   /* color: var(--text-color) !important; */
-    color: black;
+  /* color: black; */
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
@@ -10156,7 +10158,7 @@ h3 {
   }
 }
 .masthead {
-  padding-top: calc(6rem + 74px);
+  padding-top: calc(3rem + 74px);
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
@@ -10283,5 +10285,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: black;
 }
